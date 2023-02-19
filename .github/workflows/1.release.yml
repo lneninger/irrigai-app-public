@@ -26,6 +26,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+        
+
+      - name: List files 1
+        run: |
+          echo '/home/runner/work/irrigai-app-public'
+          ls /home/runner/work/irrigai-app-public
+          echo '/home/runner/work/irrigai-app-public/irrigai-app-public'
+          ls /home/runner/work/irrigai-app-public/irrigai-app-public
+
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -53,12 +63,14 @@ jobs:
         run: npm ci
      
 
-      - name: List files
+      - name: List files 2
         run: |
           echo '/home/runner/work/irrigai-app-public'
           ls /home/runner/work/irrigai-app-public
           echo '/home/runner/work/irrigai-app-public/irrigai-app-public'
           ls /home/runner/work/irrigai-app-public/irrigai-app-public
+
+
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB_ACTION }}
