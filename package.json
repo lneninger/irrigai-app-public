@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/lneninger/irrigai-app-public.git"
   },
-  "author": "neningertech",
+  "author": {
+    "name": "neningertech",
+    "email": "lneninger@hipalanet.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lneninger/irrigai-app-public/issues"
