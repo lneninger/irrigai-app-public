@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lneninger/irrigai-app-public/issues"
   },
-  "homepage": "https://github.com/lneninger/irrigai-app-public#readme"
+  "homepage": "https://github.com/lneninger/irrigai-app-public#readme",
+  "devDependencies": {
+    "semantic-release": "20.1.0"
+  }
 }
