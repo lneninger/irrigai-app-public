@@ -79,6 +79,8 @@ jobs:
           ls -a /home/runner/work/irrigai-app-public
           echo '/home/runner/work/irrigai-app-public/irrigai-app-public'
           ls -a /home/runner/work/irrigai-app-public/irrigai-app-public
+          echo '/home/runner/work/irrigai-app-public/irrigai-app-public/release-public'
+          ls -a /home/runner/work/irrigai-app-public/irrigai-app-public/release-public
 
 
       - name: Release
