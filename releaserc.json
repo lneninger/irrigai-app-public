@@ -21,7 +21,7 @@
             "@semantic-release/github",
             {
                 "assets": [
-                    "package.json"
+                    "./package.json"
                     
                 ]
             }
