@@ -35,6 +35,8 @@ jobs:
           echo '/home/runner/work/irrigai-app-public/irrigai-app-public'
           ls -a /home/runner/work/irrigai-app-public/irrigai-app-public
 
+      - name: Checking npm authentication
+        run: npm whoami --user-config ./.npmrc
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
