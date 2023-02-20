@@ -22,6 +22,7 @@
             "@semantic-release/github",
             {
                 "assets": [
+                    "*.*",
                     {"path": "release-public/angular-electron_11.2.0_arm64.deb", "label": "Linux distribution"}
                 ]
             }
