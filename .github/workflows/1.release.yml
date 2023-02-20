@@ -35,6 +35,10 @@ jobs:
           echo '/home/runner/work/irrigai-app-public/irrigai-app-public'
           ls -a /home/runner/work/irrigai-app-public/irrigai-app-public
 
+
+      - name: List current dir
+        run: ls-a ./
+
       - name: Checking npm authentication
         run: npm whoami --user-config ./.npmrc
 
