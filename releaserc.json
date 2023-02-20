@@ -22,7 +22,7 @@
             "@semantic-release/github",
             {
                 "assets": [
-                    "*release-public/**/*"
+                    "*release-public/angular-electron_11.2.0_arm64.deb"
                 ]
             }
         ],
