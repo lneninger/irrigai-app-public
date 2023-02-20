@@ -37,7 +37,7 @@ jobs:
 
 
       - name: List current dir
-        run: ls-a ./
+        run: ls -a ./
 
       - name: Checking npm authentication
         run: npm whoami --user-config ./.npmrc
