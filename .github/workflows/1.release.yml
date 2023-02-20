@@ -82,6 +82,8 @@ jobs:
 
 
       - name: Release
+        run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB_ACTION }}
-        run: npx semantic-release
+          NPM_CONFIG_USERCONFIG: /home/runner/work/_temp/.npmrc
+          NPM_TOKEN: ${{secrets.NPM_TOKEN}}
