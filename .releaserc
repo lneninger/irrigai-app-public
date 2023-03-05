@@ -22,8 +22,8 @@
             {
                 "assets": [
                     {
-                        "path": "./release-public/angular-electron_11.2.0_arm64.deb",
-                        "name": "irrigai-app-linux.deb",
+                        "path": "./release-public/NeningerTech Irrigation App Jobs-11.2.0-arm64.AppImage",
+                        "name": "irrigai-app-linux.AppImage",
                         "label": "Linux distribution"
                     }
                 ]
