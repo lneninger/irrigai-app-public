@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/lneninger/irrigai-app-public/compare/v1.0.17...v1.0.18) (2023-02-20)
+
+
+### Bug Fixes
+
+* artifacts ([9d6d1de](https://github.com/lneninger/irrigai-app-public/commit/9d6d1deeccf40f7e9f57d73e536ba652d2656b78))
+
 ## [1.0.17](https://github.com/lneninger/irrigai-app-public/compare/v1.0.16...v1.0.17) (2023-02-20)
 
 
