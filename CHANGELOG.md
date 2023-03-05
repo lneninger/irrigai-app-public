@@ -1,9 +1,9 @@
-## [1.0.20](https://github.com/lneninger/irrigai-app-public/compare/v1.0.19...v1.0.20) (2023-03-05)
+## [1.0.21](https://github.com/lneninger/irrigai-app-public/compare/v1.0.20...v1.0.21) (2023-03-05)
 
 
 ### Bug Fixes
 
-* CICD ([a5c3126](https://github.com/lneninger/irrigai-app-public/commit/a5c31268bb8d6e66f67d873465adeee4dfef6662))
+* Update from https://github.com/lneninger/irrigation-electron-ts/commit/99e2f108adbd71f2333437f292040c7ed48eca02 ([cffca31](https://github.com/lneninger/irrigai-app-public/commit/cffca3141cf61d94512c906efbed31e2fac40ba7))
 
 ## [0.0.2-beta.5](https://github.com/lneninger/irrigation-electron-ts/compare/v0.0.2-beta.4...v0.0.2-beta.5) (2023-02-13)
 
