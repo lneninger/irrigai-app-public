@@ -41,7 +41,7 @@ jobs:
         run: ls -a ./
 
       - name: Move original change log
-        run: cp /release-public/CHANGELOG.md CHANGELOG.md
+        run: cp ./release-public/CHANGELOG.md CHANGELOG.md
 
       # - name: Checking npm authentication
       #   run: npm whoami --user-config ./.npmrc
