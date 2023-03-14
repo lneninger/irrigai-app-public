@@ -22,7 +22,7 @@
             {
                 "assets": [
                     {
-                        "path": "./release-public/angular-electron_11.2.0_armv7l.AppImage",
+                        "path": "./release-public/IrrigAI-11.2.0-armv7l.AppImage",
                         "name": "irrigai-app-linux.deb",
                         "label": "Linux distribution"
                     }
