@@ -1,6 +1,6 @@
 {
   "name": "irrigai-app-public",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "Irrigai App",
   "main": "index.js",
   "private": true,
